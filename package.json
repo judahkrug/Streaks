@@ -1,0 +1,26 @@
+{
+  "name": "streaks",
+  "version": "1.0.0",
+  "description": "Alexa Integrated Progress Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judahkrug/Streaks.git"
+  },
+  "keywords": [
+    "Progress",
+    "Tracker"
+  ],
+  "author": "Judah Krug <judah.krug@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judahkrug/Streaks/issues"
+  },
+  "homepage": "https://github.com/judahkrug/Streaks#readme",
+  "dependencies": {
+    "ask-sdk": "^2.7.0"
+  }
+}
